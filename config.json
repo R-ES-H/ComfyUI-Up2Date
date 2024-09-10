@@ -1,0 +1,72 @@
+{   
+    "default_choice": "run",      
+    "timeout": 10,
+    "log_level": "error",       
+    
+    "theme": {
+        "header":      "bold cyan",
+
+        "info":        "white",
+        "debug":       "#3333BB",
+        "warning":     "#FFA500",
+
+        "error":       "bold #FF3333",
+        "updating":    "bold #FFA500",
+        "up_to_date":  "bold #55AA00",
+
+        "repo":        "underline bold",
+        "primary":     "bold #FFFFFF",
+        "secondary":   "#999999",
+        "link":        "blue",
+        "none":        "white"
+    },
+
+    "compact": true,
+    "display_up_to_date_infos": false,
+    "display_fetch": false,
+    "display_logs": true,
+    "display_readme": true,
+    "display_commit": false,       
+    "display_author": false,
+    "display_email": false,
+    "display_date": true,
+
+    "days_ago": 7,                     
+    "minimum_new_stars": 3,
+    "top_size": 500,                  
+    "display_score": true,            
+    "display_new_stars": true,
+    "display_trend_score":false,       
+    "display_total_stars": true,
+    "display_popularity_score":false,  
+    "display_last_update": true,
+    "display_update_score":false,
+                                                             
+    "trend_factor": 100,                   
+    "popularity_factor": 100,
+    "update_factor": 100,             
+
+    "excluded_repos": [                "Paste unwanted recommandations here",
+        "https://github.com/comfyanonymous/ComfyUI",
+        "https://github.com/another/repo",
+        "https://github.com/yetanother/repo"
+    ],
+
+    "display_header": false,
+    "header": [
+        "",
+        " .######.                          .####           ###     ###  ### ",
+        "###´  `###                         ###´`           ###     ###  ### ",
+        "###    ###                         ###             ###     ###  ### ",
+        "###         .#####.  ######.####.  ##### ###  ###  ###     ###  ### ",
+        "###        ###´ `### ### `### `### ###   ###  ###  ###     ###  ### ",
+        "###    ### ###   ### ###  ###  ### ###   ###  ###  ###     ###  ### ",
+        "###.  .### ###. .### ###  ###  ### ###   ###  ###  ###.   .###  ### ",
+        " `######´   `#####´  ###  ###  ### ###    `######   `#######´   ### ",
+        "                                              ###                   ",
+        "               WWW.COMFY.ORG             ###  ###                   ",
+        "                                          `#####´                   ",
+        ""
+    ]
+
+}
