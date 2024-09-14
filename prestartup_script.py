@@ -18,7 +18,6 @@ from utils import menu, initialize, requirements_installer, log_
 config, theme, console, log_ = initialize(CONFIG_PATH)
 requirements_installer(REQUIREMENTS_PATH)
 
-
 def display_header():
     if config['display_header']:
         for line in config['header']:
