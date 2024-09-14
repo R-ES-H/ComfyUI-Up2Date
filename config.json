@@ -1,7 +1,7 @@
 {   
     "default_choice": "run",      
     "timeout": 10,
-    "log_level": "error",       
+    "log_level": "info",       
     
     "theme": {
         "header":      "bold cyan",
