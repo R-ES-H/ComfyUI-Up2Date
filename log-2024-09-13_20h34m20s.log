@@ -1,0 +1,23 @@
+2024-09-13 20:34:20,938 - INFO - Updating ComfyUI repository
+2024-09-13 20:34:21,520 - INFO - ComfyUI is up to date
+2024-09-13 20:34:21,521 - INFO - Updating custom_nodes repositories
+2024-09-13 20:34:22,078 - INFO - A8R8 ComfyUI Nodes is up to date
+2024-09-13 20:34:22,632 - INFO - AIGODLIKE ComfyUI Studio is up to date
+2024-09-13 20:34:23,170 - INFO - Anynode is up to date
+2024-09-13 20:34:23,705 - INFO - Audio Separation Nodes Comfyui is up to date
+2024-09-13 20:34:24,262 - INFO - AuraSR ComfyUI is up to date
+2024-09-13 20:34:24,824 - INFO - Canvas Tab is up to date
+2024-09-13 20:34:24,827 - ERROR - 🞫 CatchUp 
+ Remote 'origin' not found. 
+
+2024-09-13 20:34:25,359 - INFO - Cg Image Picker is up to date
+2024-09-13 20:34:25,921 - INFO - Cg Use Everywhere is up to date
+2024-09-13 20:34:26,464 - INFO - CharacterFaceSwap is up to date
+2024-09-13 20:34:27,036 - INFO - Image Saver is up to date
+2024-09-13 20:34:27,661 - INFO - Nodes is up to date
+2024-09-13 20:34:28,202 - INFO - ComfyLiterals is up to date
+2024-09-13 20:34:28,737 - INFO - ComfyMath is up to date
+2024-09-13 20:34:29,269 - INFO - 0246.disabled is up to date
+2024-09-13 20:34:29,833 - INFO - 3D Pack is up to date
+2024-09-13 20:34:30,395 - INFO - Advanced ControlNet is up to date
+2024-09-13 20:34:30,975 - INFO - AnimateDiff Evolved is up to date
